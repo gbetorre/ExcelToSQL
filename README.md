@@ -6,8 +6,8 @@
 
 ![MIT license](https://img.shields.io/badge/license-MIT-blue)
 
-This is a porting of a simple, but interesting, project written in Python 2.X by
-[Jerry Fengwei Zhang.](https://github.com/JerryFZhang) to make it compliant with Python 3.X
+This is a porting of a simple, but interesting, project originally written in Python 2.X by
+[Jerry Fengwei Zhang](https://github.com/JerryFZhang), to make it compliant with Python 3.X
 
 
 # ExcelToSQL
@@ -192,7 +192,7 @@ VALUES (5, 'C005', 'DFEF', 'IT');
 ```
 
 **_List.3 - The generated SQL code does not make sense according to a traditional database perspective, but the script
-respects the type it finds in the Excel. (By the way, the lack of single quote escaping would itself generate a problem)._**
+respects the type it finds in the Excel._**
 
 
 # License 
