@@ -178,7 +178,7 @@ VALUES (5, 'C005', 'DFEF', 'IT');
 
 MIT, v. LICENSE.
 
-# Authori
+# Autori
 
 * [zhang96](https://github.com/JerryFZhang) 
 * [gbetorre](https://github.com/gbetorre)
